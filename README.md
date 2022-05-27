@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pimentahq
+- 👋 Hi, I’m Rafael Pimenta (@pimentahq)
 - 👀 I’m interested in GameDev, Rust, C++, JavaScript/TypeScript
 - 🌱 I’m currently learning JavaScript/TypeScript and Rust
 - 💞️ I’m looking to collaborate on game related projects
